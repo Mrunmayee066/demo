@@ -24,4 +24,13 @@
         android:text="Say Hello"
         android:backgroundTint="#2196F3"
         android:textColor="#FFFFFF"/>
+
+
+    <Button
+        android:id="@+id/j"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Say Hello"
+        android:backgroundTint="#2196F3"
+        android:textColor="#FFFFFF"/>
 </LinearLayout>
